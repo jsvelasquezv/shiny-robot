@@ -1,0 +1,23 @@
+<section class="phx-hero">
+  <div class="column">
+    <ul id="user-list"><ul>
+  </div>
+</section>
+
+<section class="row">
+  <div class="column">
+    <button id='btn-create-game'>Create game</button>
+  </div>
+  <div class="column">
+    <input type="text" id="name" class="form-control" placeholder="Your Name" autofocus>
+  </div>
+</section>
+
+<section class="row">
+  <div class="column">
+    <button id='btn-join-game'>Join game</button>
+  </div>
+  <div class="column">
+    <input type="text" id="game-id" class="form-control" placeholder="Game Id">
+  </div>
+</section>
